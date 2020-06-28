@@ -6,4 +6,4 @@
 
 
 ## Nobody is perfect (っ◔◡◔)っ ♥ 
-If you want to share a better solution for some exercice, feel free to comment. This is a repository for personal learning mainly, but better solutions are also welcome.
+> If you want to share a better solution for some exercice, feel free to comment. This is a repository for personal learning mainly, but better solutions are also welcome.
