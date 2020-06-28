@@ -5,5 +5,5 @@
 > Used to learning purposes of how to code in C++ in real competitions, so this code are not clean code.
 
 
-##### Nobody is perfect (っ◔◡◔)っ ♥ 
+## Nobody is perfect (っ◔◡◔)っ ♥ 
 If you want to share a better solution for some exercice, feel free to comment. This is a repository for personal learning mainly, but better solutions are also welcome.
